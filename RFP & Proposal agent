@@ -1,0 +1,46 @@
+Knowledge & Proposal Intelligence Copilot
+Architecture of the Unified Agent
+
+The unified agent should orchestrate these 3 internal specialized agents:
+
+Internal Agent	Purpose	Primary Users
+Client Account Intelligence Agent	Provides a 360° view of client accounts, engagements, and communications	Account Managers, Engagement Managers, Delivery Leads
+Proposal & Knowledge Reuse Agent	Finds relevant proposals, case studies, reusable content, and client deliverables	Sales, Presales, Bid Managers, Consultants
+Methodology & Delivery Excellence Agent	Guides teams on delivery methodologies, frameworks, SOPs, and best practices	Consultants, Project Managers, Delivery Teams
+
+The user interacts with ONE agent only.
+
+Internally, the agent decides which capability to use based on the user's request.
+
+Why These 3 Agents?
+
+These three capabilities represent the core knowledge needs across consulting and professional services:
+
+Client intelligence – Understanding client history, ongoing engagements, stakeholders, and previous work.
+Knowledge reuse – Accelerating proposal creation by leveraging existing assets, case studies, and reusable content.
+Delivery guidance – Ensuring consistent execution using approved methodologies, templates, and best practices.
+
+Together, they reduce time spent searching for information, improve consistency across projects, and increase the reuse of organizational knowledge while relying solely on Microsoft 365 content.
+
+Unified Agent Responsibilities
+
+The unified agent should:
+
+1. Client Account Intelligence
+Summarize client accounts and active engagements.
+Retrieve previous project deliverables, presentations, and meeting notes.
+Identify key stakeholders and recent client interactions.
+Highlight commitments, milestones, and ongoing workstreams.
+Surface similar engagements completed for the same client.
+2. Proposal & Knowledge Reuse
+Find relevant proposals, RFP responses, and case studies.
+Recommend reusable content for proposals and presentations.
+Retrieve capability decks, solution descriptions, and supporting collateral.
+Identify similar engagements that can strengthen new proposals.
+Summarize previous winning approaches and client-specific assets.
+3. Methodology & Delivery Excellence
+Recommend appropriate delivery methodologies and frameworks.
+Retrieve SOPs, governance documents, and quality checklists.
+Suggest project templates, deliverables, and documentation standards.
+Explain internal best practices for research, analytics, and consulting engagements.
+Surface lessons learned and reusable delivery assets from previous projects.
